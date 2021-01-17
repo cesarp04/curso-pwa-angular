@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "angular-pwa-platzi"
+    "default": "angular-pwa-platzi",
+    "pwa": "angular-pwa-platzi-d5505"
   }
 }

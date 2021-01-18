@@ -1,6 +1,6 @@
 {
-  "name": "platzi-store-pwa",
-  "short_name": "platzi-store-pwa",
+  "name": "Platzi Store",
+  "short_name": "Platzi Store",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
